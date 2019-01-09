@@ -1,0 +1,18 @@
+c:\users\u367251\documents\visual studio 2015\Projects\RPG_Character_Creator\RPG_Character_Creator\bin\Debug\RPG_Character_Creator.exe.config
+c:\users\u367251\documents\visual studio 2015\Projects\RPG_Character_Creator\RPG_Character_Creator\bin\Debug\RPG_Character_Creator.exe
+c:\users\u367251\documents\visual studio 2015\Projects\RPG_Character_Creator\RPG_Character_Creator\bin\Debug\RPG_Character_Creator.pdb
+c:\users\u367251\documents\visual studio 2015\Projects\RPG_Character_Creator\RPG_Character_Creator\obj\Debug\RPG_Character_Creator.csprojResolveAssemblyReference.cache
+c:\users\u367251\documents\visual studio 2015\Projects\RPG_Character_Creator\RPG_Character_Creator\obj\Debug\RPG_Character_Creator.Form1.resources
+c:\users\u367251\documents\visual studio 2015\Projects\RPG_Character_Creator\RPG_Character_Creator\obj\Debug\RPG_Character_Creator.Properties.Resources.resources
+c:\users\u367251\documents\visual studio 2015\Projects\RPG_Character_Creator\RPG_Character_Creator\obj\Debug\RPG_Character_Creator.csproj.GenerateResource.Cache
+c:\users\u367251\documents\visual studio 2015\Projects\RPG_Character_Creator\RPG_Character_Creator\obj\Debug\RPG_Character_Creator.exe
+c:\users\u367251\documents\visual studio 2015\Projects\RPG_Character_Creator\RPG_Character_Creator\obj\Debug\RPG_Character_Creator.pdb
+C:\Users\ashetyn.a.white\Desktop\RPG_Character_Creator\RPG_Character_Creator\bin\Debug\RPG_Character_Creator.exe.config
+C:\Users\ashetyn.a.white\Desktop\RPG_Character_Creator\RPG_Character_Creator\bin\Debug\RPG_Character_Creator.exe
+C:\Users\ashetyn.a.white\Desktop\RPG_Character_Creator\RPG_Character_Creator\bin\Debug\RPG_Character_Creator.pdb
+C:\Users\ashetyn.a.white\Desktop\RPG_Character_Creator\RPG_Character_Creator\obj\Debug\RPG_Character_Creator.csprojResolveAssemblyReference.cache
+C:\Users\ashetyn.a.white\Desktop\RPG_Character_Creator\RPG_Character_Creator\obj\Debug\RPG_Character_Creator.Form1.resources
+C:\Users\ashetyn.a.white\Desktop\RPG_Character_Creator\RPG_Character_Creator\obj\Debug\RPG_Character_Creator.Properties.Resources.resources
+C:\Users\ashetyn.a.white\Desktop\RPG_Character_Creator\RPG_Character_Creator\obj\Debug\RPG_Character_Creator.csproj.GenerateResource.Cache
+C:\Users\ashetyn.a.white\Desktop\RPG_Character_Creator\RPG_Character_Creator\obj\Debug\RPG_Character_Creator.exe
+C:\Users\ashetyn.a.white\Desktop\RPG_Character_Creator\RPG_Character_Creator\obj\Debug\RPG_Character_Creator.pdb
